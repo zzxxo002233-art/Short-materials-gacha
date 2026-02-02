@@ -1,0 +1,11 @@
+专辑id,专辑名称,书名,赛道品类,图片1链接,图片2链接,图片3链接,图片4链接
+TEST001,测试专辑1,测试书名1,文学,https://picsum.photos/300/400,https://picsum.photos/300/400,https://picsum.photos/300/400,https://picsum.photos/300/400
+TEST002,测试专辑2,测试书名2,科技,https://via.placeholder.com/300x400/4CAF50/FFFFFF.jpg,https://via.placeholder.com/300x400/2196F3/FFFFFF.jpg,https://via.placeholder.com/300x400/FF9800/FFFFFF.jpg,https://via.placeholder.com/300x400/9C27B0/FFFFFF.jpg
+TEST003,测试专辑3,测试书名3,历史,https://httpbin.org/image/jpeg,https://httpbin.org/image/png,https://httpbin.org/image/webp,https://httpbin.org/image/svg
+TEST004,测试专辑4,测试书名4,文学,https://dummyimage.com/300x400/4CAF50/FFFFFF.jpg,https://dummyimage.com/300x400/2196F3/FFFFFF.jpg,https://dummyimage.com/300x400/FF9800/FFFFFF.jpg,https://dummyimage.com/300x400/9C27B0/FFFFFF.jpg
+TEST005,测试专辑5,测试书名5,科技,https://placehold.co/300x400/4CAF50/FFFFFF.jpg,https://placehold.co/300x400/2196F3/FFFFFF.jpg,https://placehold.co/300x400/FF9800/FFFFFF.jpg,https://placehold.co/300x400/9C27B0/FFFFFF.jpg
+TEST006,测试专辑6,测试书名6,历史,https://picsum.photos/300/400?random=1,https://picsum.photos/300/400?random=2,https://picsum.photos/300/400?random=3,https://picsum.photos/300/400?random=4
+TEST007,测试专辑7,测试书名7,文学,https://via.placeholder.com/300x400.jpg?text=Image+1,https://via.placeholder.com/300x400.jpg?text=Image+2,https://via.placeholder.com/300x400.jpg?text=Image+3,https://via.placeholder.com/300x400.jpg?text=Image+4
+TEST008,测试专辑8,测试书名8,科技,https://dummyimage.com/300x400.jpg&text=Image+1,https://dummyimage.com/300x400.jpg&text=Image+2,https://dummyimage.com/300x400.jpg&text=Image+3,https://dummyimage.com/300x400.jpg&text=Image+4
+TEST009,测试专辑9,测试书名9,历史,https://placehold.co/300x400.jpg?text=Image+1,https://placehold.co/300x400.jpg?text=Image+2,https://placehold.co/300x400.jpg?text=Image+3,https://placehold.co/300x400.jpg?text=Image+4
+TEST010,测试专辑10,测试书名10,文学,https://picsum.photos/id/1/300/400,https://picsum.photos/id/2/300/400,https://picsum.photos/id/3/300/400,https://picsum.photos/id/4/300/400
